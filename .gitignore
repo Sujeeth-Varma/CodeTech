@@ -1,0 +1,4 @@
+**/**.class
+**/**.txt
+target
+.jar
